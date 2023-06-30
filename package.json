@@ -1,0 +1,17 @@
+{
+  "name": "cypressautomationapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0"
+  }
+}

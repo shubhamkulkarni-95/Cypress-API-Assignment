@@ -1,0 +1,9 @@
+{
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+    "Authorization": {
+        "username" : "admin",
+        "password" : "password123"
+    },
+    "Cookie": "token=abc123"
+}
